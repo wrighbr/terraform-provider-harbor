@@ -1,4 +1,4 @@
-module bitbucket.org/bestsellerit/terraform-provider-harbor
+module wrighbr/wrighbr/terraform-provider-harbor
 
 go 1.13
 
